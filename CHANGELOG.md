@@ -4,6 +4,23 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/bigtable?activeTab=versions
 
+## [2.4.0](https://www.github.com/googleapis/nodejs-bigtable/compare/v2.3.2...v2.4.0) (2020-03-18)
+
+
+### Features
+
+* export protos in src/index.ts ([edac2c5](https://www.github.com/googleapis/nodejs-bigtable/commit/edac2c5b5c97ae301ef70776621d5cd0add79f5d))
+* move to Typescript code generation ([#631](https://www.github.com/googleapis/nodejs-bigtable/issues/631)) ([6749aa5](https://www.github.com/googleapis/nodejs-bigtable/commit/6749aa5b1f56e7204ffdea7daab0217525e220ce))
+
+
+### Bug Fixes
+
+* **docs:** contigous to contiguous ([#637](https://www.github.com/googleapis/nodejs-bigtable/issues/637)) ([9d09d37](https://www.github.com/googleapis/nodejs-bigtable/commit/9d09d375b29bc21fcccd2c5341dc5d2046e00b7e))
+* doc for create instance cluster id ([#642](https://www.github.com/googleapis/nodejs-bigtable/issues/642)) ([838837c](https://www.github.com/googleapis/nodejs-bigtable/commit/838837c643d61861ecbb15636375620a914aad86))
+* improve TypeScript types ([#646](https://www.github.com/googleapis/nodejs-bigtable/issues/646)) ([f4e1b86](https://www.github.com/googleapis/nodejs-bigtable/commit/f4e1b862ab94e82312413f0b983dd67fdab24f8a))
+* improve typescript types for Table class ([#641](https://www.github.com/googleapis/nodejs-bigtable/issues/641)) ([68179d1](https://www.github.com/googleapis/nodejs-bigtable/commit/68179d194aeb8246e3c19e0072085cf82cf3f609))
+* update types for app profile ([#649](https://www.github.com/googleapis/nodejs-bigtable/issues/649)) ([271d480](https://www.github.com/googleapis/nodejs-bigtable/commit/271d480ada622da7ffc4bc4da64a8626dc0e0e71))
+
 ### [2.3.2](https://www.github.com/googleapis/nodejs-bigtable/compare/v2.3.1...v2.3.2) (2020-02-12)
 
 
